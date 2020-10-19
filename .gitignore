@@ -1,0 +1,6 @@
+Cut&Paste
+Synthetic
+*.pth
+*.out
+__pycache__
+
